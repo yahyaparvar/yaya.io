@@ -36,11 +36,6 @@ export const designs: Design[] = [
     link: "https://dribbble.com/shots/11134809-Neon-Signatures",
   },
   {
-    label: "The Dentista - Logo Design",
-    img: "/static/designs/the-dentista-logo.png",
-    link: "https://dribbble.com/shots/14571857-The-Dentista-Logo-Design",
-  },
-  {
     label: "iPhone Wallpapers",
     img: "/static/designs/iphone-wallpapers.png",
     link: "https://dribbble.com/shots/14077089-Free-iPhone-Wallpapers",
